@@ -3,7 +3,7 @@ It is Jacksons profile
 # 陳思維
 ## Personal Profile
 
-### 我是陳思維，雙魚男，英文名字是Jackson，生日2/21，今年21歲。從小在台北市松山區讀書長大，目前就讀中原大學人工智慧四年級。我的興趣是跳舞，逛街以及戶外活動。我喜歡女生，同時也喜歡設計類有美感的東西。現在最大的目標是希望能好好修課並且準時畢業，也希望能從課程中學習到職場上很有幫助的知識。
+### I am Si-wei Chen, a Pisces man. My English name is Jackson, and my birthday is 2/21. I am 21 years old this year. I grew up and studied in Songshan District, Taipei City, and is currently studying in the fourth grade of artificial intelligence at Chung Yuan University. My hobbies are dancing, shopping and outdoor activities. I like girls, and I also like design and aesthetic things. The biggest goal now is to take courses well and graduate on time, and also hope to learn useful knowledge in the workplace from the courses.
 
 ## LIST
  學習經歷:
